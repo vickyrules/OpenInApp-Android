@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">OpenInApp_Android</string>
+    <string name="setting">Setting icon</string>
+    <string name="view_all_links">View all Links</string>
+    <string name="view_analytics">View Analytics</string>
+    <string name="talk_with_us">Talk with us</string>
+    <string name="frequently_asked_question">Frequently Asked Question</string>
 </resources>
